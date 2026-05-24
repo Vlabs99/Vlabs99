@@ -100,3 +100,12 @@ https://github.com/Vlabs99
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vlabs99&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vlabs99/Vlabs99/output/github-contribution-grid-snake.svg" />
+</p>
