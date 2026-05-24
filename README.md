@@ -66,13 +66,8 @@ https://github.com/Vlabs99/Vchat/releases/download/v1.0/app-debug.apk
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vlabs99&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlabs99&layout=compact&theme=tokyonight&cache_seconds=1800" />
-
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vlabs99&theme=tokyonight" />
 </p>
-
 ---
 
 # 🔥 Current Focus
