@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwarajsinh Chudasama</h1>
 
 <h3 align="center">
-MCA Student • Android Developer • Realtime Systems Builder
+MCA Student • Full Stack Developer • Android Developer
 </h3>
 
 <p align="center">
